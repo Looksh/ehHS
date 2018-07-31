@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">AndroidMealLibrary</string>
+
+    <string name="loading_title">로딩중</string>
+    <string name="no_network_msg">인터넷 연결이 안되서 데이터를 다운로드 할 수 없습니다</string>
+    <string name="no_data_lunch">점심이 없습니다.</string>
+    <string name="no_data_dinner">저녁이 없습니다.</string>
+    <string name="bap">급식</string>
+    <string name="buttonsch">학교공지</string>
+    <string name="open_lisence">\n- jericho-html-3.3
+\n (http://jericho.htmlparser.net/docs/index.html)
+\n
+\n- Android Meal Library
+\n (https://bitbucket.org/whdghks913/wondanghighschool) (http://itmir.tistory.com/486) (http://blog.naver.com/rimal/140186322365)
+\n
+\n- 급식 오픈소스 라이선스
+\n https://bitbucket.org/whdghks913/androidmeallibrary
+    </string>
+
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:key="setting"
+    android:title="설정">
+
+        <PreferenceCategory
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:key="setting1"
+            android:title="라이선스">
+            <Preference
+                android:key="lisence"
+                android:title="오픈소스 라이선스">
+            </Preference>
+        </PreferenceCategory>
+
+        <PreferenceCategory
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:key="setting2"
+            android:title="어플 정보">
+            <Preference
+                android:key="setting2_1"
+                android:title="은행고등학교 어플"
+                android:summary="은행고등학교 학생들을 위한 어플입니다."
+                android:selectable="true" />
+        </PreferenceCategory>
+
+        <PreferenceCategory
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:key="setting3"
+            android:title="제작자">
+            <Preference
+                android:title="프로젝트 기획 및 제작"
+                android:summary="2016학년도 입학생 김승현"
+                android:defaultValue="true"/>
+            <Preference
+                android:title="어플 아이콘"
+                android:summary="아이엠스쿨-은행고등학교"
+                android:defaultValue="true"/>
+        </PreferenceCategory>
+
+
+
+</PreferenceScreen>
