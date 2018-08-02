@@ -35,7 +35,8 @@
                 android:defaultValue="true"/>
             <Preference
                 android:title="어플 아이콘"
-                android:summary="아이엠스쿨-은행고등학교"
+                android:summary="아이엠스쿨-은행고등학교
+flaticon.com"
                 android:defaultValue="true"/>
         </PreferenceCategory>
 
